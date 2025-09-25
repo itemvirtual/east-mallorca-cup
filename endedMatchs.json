@@ -1,0 +1,41 @@
+{
+  "Grupo":"GRUPO A",
+  "Categoria":"U11",
+
+  "Partidos": [
+    {
+      "FechaPartido": "2025-09-16 11:15",
+      "Jornada":1,
+      "Sede": "Lugar campo",
+      "EquipoLocal": {
+        "name": "FC Barcelona",
+        "logo": "https://eastmallorcacup.com/backend/files/escudos/equipo_40.png?1758790442"
+      },
+      "EquipoVisitante": {
+        "name": "R. Madrid",
+        "logo": "https://eastmallorcacup.com/backend/files/escudos/equipo_39.jpg?1758790442"
+      },
+      "score": {
+        "GolesLocal": 1,
+        "GolesVisitante": 2
+      }
+    },
+    {
+      "FechaPartido": "2025-09-26 11:15",
+      "Jornada":1,
+      "Sede": "Lugar campo",
+      "EquipoLocal": {
+        "name": "FC Barcelona",
+        "logo": "https://eastmallorcacup.com/backend/files/escudos/equipo_40.png?1758790442"
+      },
+      "EquipoVisitante": {
+        "name": "RCD ESPANYOL",
+        "logo": "https://eastmallorcacup.com/backend/files/escudos/equipo_41.png?1758790442"
+      },
+      "score": {
+        "GolesLocal": 2,
+        "GolesVisitante": 0
+      }
+    }
+  ]
+}
